@@ -1,0 +1,11 @@
+# Railway Configuration for Smitha's Academy
+
+[build]
+# Use Dockerfile for building
+builder = "dockerfile"
+
+[deploy]
+# Start command
+startCommand = "mvn tomcat7:run"
+# Port exposure
+numReplicas = 1
