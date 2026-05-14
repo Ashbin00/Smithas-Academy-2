@@ -109,7 +109,7 @@
                             <tbody>
                                 <tr>
                                     <td><i class="fas fa-clock text-primary me-2"></i> <strong>Duration:</strong></td>
-                                    <td>4-8 Weeks (Intensive / Regular)</td>
+                                    <td>8-10 Weeks (Intensive / Regular)</td>
                                 </tr>
                                 <tr>
                                     <td><i class="fas fa-users text-primary me-2"></i> <strong>Batch Size:</strong></td>
@@ -218,7 +218,7 @@
                             <tbody>
                                 <tr>
                                     <td><i class="fas fa-clock text-danger me-2"></i> <strong>Duration:</strong></td>
-                                    <td>6-10 Weeks</td>
+                                    <td>8-10 Weeks</td>
                                 </tr>
                                 <tr>
                                     <td><i class="fas fa-star text-danger me-2"></i> <strong>Target Grade:</strong></td>
@@ -326,7 +326,7 @@
                             <tbody>
                                 <tr>
                                     <td><i class="fas fa-clock text-warning me-2"></i> <strong>Duration:</strong></td>
-                                    <td>2-3 Months per Level</td>
+                                    <td>8-10 Weeks (Per level)</td>
                                 </tr>
                                 <tr>
                                     <td><i class="fas fa-users text-warning me-2"></i> <strong>Batch Size:</strong></td>
@@ -416,7 +416,7 @@
                             <tbody>
                                 <tr>
                                     <td><i class="fas fa-clock text-info me-2"></i> <strong>Duration:</strong></td>
-                                    <td>3-6 Months</td>
+                                    <td>12-16 Weeks</td>
                                 </tr>
                                 <tr>
                                     <td><i class="fas fa-question-circle text-info me-2"></i> <strong>Format:</strong></td>
@@ -495,7 +495,7 @@
                             <tbody>
                                 <tr>
                                     <td><i class="fas fa-clock text-success me-2"></i> <strong>Duration:</strong></td>
-                                    <td>4-8 Weeks</td>
+                                    <td>8-10 Weeks</td>
                                 </tr>
                                 <tr>
                                     <td><i class="fas fa-user-nurse text-success me-2"></i> <strong>Audience:</strong></td>
@@ -556,7 +556,7 @@
                         <li><i class="fas fa-check text-danger me-2"></i>NMC Learning Modules</li>
                         <li><i class="fas fa-check text-danger me-2"></i>Clinical Case Scenarios</li>
                         <li><i class="fas fa-check text-danger me-2"></i>Practice MCQ Exams</li>
-                        <li><i class="fas fa-check text-danger me-2"></i>4-6 Weeks Intensive Batch</li>
+                        <li><i class="fas fa-check text-danger me-2"></i>10 Days Intensive Batch</li>
                     </ul>
                     <a href="register.jsp?course=CBT" class="btn btn-outline-danger w-100 mt-auto">Enroll Now</a>
                 </div>

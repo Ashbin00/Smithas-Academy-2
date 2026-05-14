@@ -36,7 +36,7 @@
                         </span>
                     </div>
                     <div class="col-md-4 text-end d-flex justify-content-end gap-3">
-                        <a href="#" title="Facebook"><i class="fab fa-facebook-f text-white"></i></a>
+                        <a href="https://www.facebook.com/share/18XuSdNvd5/" title="Facebook" target="_blank"><i class="fab fa-facebook-f text-white"></i></a>
                         <a href="https://www.instagram.com/smithas_academy?igsh=MWh6bXgydDNoOThhcw==" title="Instagram"
                             target="_blank"><i class="fab fa-instagram text-white"></i></a>
                         <a href="#" title="YouTube"><i class="fab fa-youtube text-white"></i></a>
@@ -98,8 +98,10 @@
                         </div>
                         <h1 class="hero-title">
                             Achieve Your <span class="text-highlight">Dream Score</span><br>
-                            <span class="fs-4 d-block mt-3" style="line-height: 1.6; font-weight: 500; font-family: 'Poppins', sans-serif;">
-                                NCLEX-RN &bull; DHA &bull; PROMETRIC &bull; MOH &bull; HAAD &bull; PTE &bull; GERMAN &bull; OET &bull; IELTS &bull; CBT &bull; BLS &bull; ACLS
+                            <span class="fs-3 d-block mt-3"
+                                style="line-height: 1.6; font-weight: 600; font-family: 'Poppins', sans-serif; color: #ffeb3b;">
+                                NCLEX-RN &bull; DHA &bull; PROMETRIC &bull; MOH &bull; HAAD &bull; PTE &bull; GERMAN
+                                &bull; OET &bull; IELTS &bull; CBT &bull; BLS &bull; ACLS
                             </span>
                         </h1>
                         <p class="hero-subtitle mt-3">
@@ -188,7 +190,7 @@
                             </ul>
                             <div class="course-footer mt-auto">
                                 <div class="d-flex justify-content-between align-items-center">
-                                    <span class="course-duration"><i class="far fa-clock me-1"></i>8-16 Weeks</span>
+                                    <span class="course-duration"><i class="far fa-clock me-1"></i>12-16 Weeks</span>
                                     <a href="register.jsp" class="btn btn-course">Enroll Now</a>
                                 </div>
                             </div>
@@ -213,7 +215,7 @@
                             </ul>
                             <div class="course-footer mt-auto">
                                 <div class="d-flex justify-content-between align-items-center">
-                                    <span class="course-duration"><i class="far fa-clock me-1"></i>4-8 Weeks</span>
+                                    <span class="course-duration"><i class="far fa-clock me-1"></i>8-10 Weeks</span>
                                     <a href="register.jsp" class="btn btn-course">Enroll Now</a>
                                 </div>
                             </div>
@@ -237,7 +239,7 @@
                             </ul>
                             <div class="course-footer mt-auto">
                                 <div class="d-flex justify-content-between align-items-center">
-                                    <span class="course-duration"><i class="far fa-clock me-1"></i>4-8 Weeks</span>
+                                    <span class="course-duration"><i class="far fa-clock me-1"></i>8-10 Weeks</span>
                                     <a href="register.jsp" class="btn btn-course">Enroll Now</a>
                                 </div>
                             </div>
@@ -261,7 +263,7 @@
                             </ul>
                             <div class="course-footer mt-auto">
                                 <div class="d-flex justify-content-between align-items-center">
-                                    <span class="course-duration"><i class="far fa-clock me-1"></i>4-8 Weeks</span>
+                                    <span class="course-duration"><i class="far fa-clock me-1"></i>8-10 Weeks</span>
                                     <a href="register.jsp" class="btn btn-course">Enroll Now</a>
                                 </div>
                             </div>
@@ -287,7 +289,7 @@
                             </ul>
                             <div class="course-footer mt-auto">
                                 <div class="d-flex justify-content-between align-items-center">
-                                    <span class="course-duration"><i class="far fa-clock me-1"></i>4-8 Weeks</span>
+                                    <span class="course-duration"><i class="far fa-clock me-1"></i>8-10 Weeks</span>
                                     <a href="register.jsp" class="btn btn-course">Enroll Now</a>
                                 </div>
                             </div>
@@ -308,7 +310,7 @@
                             </ul>
                             <div class="course-footer mt-auto">
                                 <div class="d-flex justify-content-between align-items-center">
-                                    <span class="course-duration"><i class="far fa-clock me-1"></i>4-8 Weeks</span>
+                                    <span class="course-duration"><i class="far fa-clock me-1"></i>3-4 Weeks</span>
                                     <a href="register.jsp" class="btn btn-course">Know More</a>
                                 </div>
                             </div>
@@ -330,7 +332,7 @@
                             </ul>
                             <div class="course-footer mt-auto">
                                 <div class="d-flex justify-content-between align-items-center">
-                                    <span class="course-duration"><i class="far fa-clock me-1"></i>3-12 Months</span>
+                                    <span class="course-duration"><i class="far fa-clock me-1"></i>8-10 Weeks</span>
                                     <a href="register.jsp" class="btn btn-course-german">Know More</a>
                                 </div>
                             </div>
@@ -352,7 +354,7 @@
                             </ul>
                             <div class="course-footer mt-auto">
                                 <div class="d-flex justify-content-between align-items-center">
-                                    <span class="course-duration"><i class="far fa-clock me-1"></i>6-10 Weeks</span>
+                                    <span class="course-duration"><i class="far fa-clock me-1"></i>8-10 Weeks</span>
                                     <a href="register.jsp" class="btn btn-course-oet">Know More</a>
                                 </div>
                             </div>
@@ -374,7 +376,7 @@
                             </ul>
                             <div class="course-footer mt-auto">
                                 <div class="d-flex justify-content-between align-items-center">
-                                    <span class="course-duration"><i class="far fa-clock me-1"></i>4-12 Weeks</span>
+                                    <span class="course-duration"><i class="far fa-clock me-1"></i>8-10 Weeks</span>
                                     <a href="register.jsp" class="btn btn-course">Know More</a>
                                 </div>
                             </div>
@@ -397,7 +399,7 @@
                             </ul>
                             <div class="course-footer mt-auto">
                                 <div class="d-flex justify-content-between align-items-center">
-                                    <span class="course-duration"><i class="far fa-clock me-1"></i>4-8 Weeks</span>
+                                    <span class="course-duration"><i class="far fa-clock me-1"></i>10 Days</span>
                                     <a href="register.jsp" class="btn btn-course">Know More</a>
                                 </div>
                             </div>
@@ -420,7 +422,7 @@
                             </ul>
                             <div class="course-footer mt-auto">
                                 <div class="d-flex justify-content-between align-items-center">
-                                    <span class="course-duration"><i class="far fa-clock me-1"></i>1-2 Days</span>
+                                    <span class="course-duration"><i class="far fa-clock me-1"></i>8-10 Weeks</span>
                                     <a href="register.jsp" class="btn btn-course">Know More</a>
                                 </div>
                             </div>
@@ -443,7 +445,26 @@
                             </ul>
                             <div class="course-footer mt-auto">
                                 <div class="d-flex justify-content-between align-items-center">
-                                    <span class="course-duration"><i class="far fa-clock me-1"></i>2-3 Days</span>
+                                    <span class="course-duration"><i class="far fa-clock me-1"></i>8-10 Weeks</span>
+                                    <a href="register.jsp" class="btn btn-course">Know More</a>
+                                </div>
+                            </div>
+                        </div>
+                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                        <div class="course-card h-100" style="border-top:4px solid #0d6efd;">
+                            <div class="course-icon"
+                                style="background:linear-gradient(135deg,#0d6efd,#0a58ca);color:#fff;"><i
+                                    class="fas fa-language"></i></div>
+                            <h3>FRENCH</h3>
+                            <p class="text-muted">Learn French for Canada Migration (TEF/TCF) or personal interest. Certified training for A1, A2 &amp; B1 levels.</p>
+                            <ul class="course-features">
+                                <li><i class="fas fa-check-circle text-success me-2"></i>DELF/TEF/TCF Focus</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Grammar &amp; Vocabulary</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Listening &amp; Speaking</li>
+                            </ul>
+                            <div class="course-footer mt-auto">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <span class="course-duration"><i class="far fa-clock me-1"></i>8-10 Weeks</span>
                                     <a href="register.jsp" class="btn btn-course">Know More</a>
                                 </div>
                             </div>
@@ -451,84 +472,7 @@
                     </div>
 
                 </div>
-                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-                    <div class="course-card h-100">
-                        <div class="course-icon ielts-icon">
-                            <i class="fas fa-globe-americas"></i>
-                        </div>
-                        <div class="course-badge-label">Most Popular</div>
-                        <h3>IELTS</h3>
-                        <p class="text-muted">International English Language Testing System - ideal for study, work,
-                            and immigration abroad.</p>
-                        <ul class="course-features">
-                            <li><i class="fas fa-check-circle text-success me-2"></i> Academic &amp; General
-                                Training</li>
-                            <li><i class="fas fa-check-circle text-success me-2"></i> Reading, Writing, Speaking,
-                                Listening</li>
-                            <li><i class="fas fa-check-circle text-success me-2"></i> Full Mock Tests</li>
-                            <li><i class="fas fa-check-circle text-success me-2"></i> One-to-One Speaking Sessions
-                            </li>
-                            <li><i class="fas fa-check-circle text-success me-2"></i> Band Score Guarantee*</li>
-                        </ul>
-                        <div class="course-footer mt-auto">
-                            <div class="d-flex justify-content-between align-items-center">
-                                <span class="course-duration"><i class="far fa-clock me-1"></i> 4-12 Weeks</span>
-                                <a href="courses.jsp#ielts" class="btn btn-course">Know More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
-                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-                    <div class="course-card h-100 oet-theme">
-                        <div class="course-icon oet-icon">
-                            <i class="fas fa-heartbeat"></i>
-                        </div>
-                        <h3>OET</h3>
-                        <p class="text-muted">Occupational English Test - specifically designed for healthcare
-                            professionals seeking to work abroad.</p>
-                        <ul class="course-features">
-                            <li><i class="fas fa-check-circle text-success me-2"></i> For Nurses, Doctors,
-                                Pharmacists</li>
-                            <li><i class="fas fa-check-circle text-success me-2"></i> Medical Vocabulary &amp;
-                                Roleplay</li>
-                            <li><i class="fas fa-check-circle text-success me-2"></i> 20+ OET Mock Tests</li>
-                            <li><i class="fas fa-check-circle text-success me-2"></i> UK / Australia / NZ Focus</li>
-                        </ul>
-                        <div class="course-footer mt-auto">
-                            <div class="d-flex justify-content-between align-items-center">
-                                <span class="course-duration"><i class="far fa-clock me-1"></i> 6-10 Weeks</span>
-                                <a href="courses.jsp#oet" class="btn btn-course-oet">Know More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-                    <div class="course-card h-100 german-theme">
-                        <div class="course-icon german-icon">
-                            <i class="fas fa-language"></i>
-                        </div>
-                        <h3>German Language</h3>
-                        <p class="text-muted">Learn German from scratch or advance to professional level - perfect
-                            for students and job seekers in Germany.</p>
-                        <ul class="course-features">
-                            <li><i class="fas fa-check-circle text-success me-2"></i> A1, A2, B1, B2 Levels (Goethe)
-                            </li>
-                            <li><i class="fas fa-check-circle text-success me-2"></i> Exam Preparation (Goethe /
-                                TELC)</li>
-                            <li><i class="fas fa-check-circle text-success me-2"></i> Conversational German</li>
-                            <li><i class="fas fa-check-circle text-success me-2"></i> Germany Job Seeker Visa Guide
-                            </li>
-                        </ul>
-                        <div class="course-footer mt-auto">
-                            <div class="d-flex justify-content-between align-items-center">
-                                <span class="course-duration"><i class="far fa-clock me-1"></i> 3-12 Months</span>
-                                <a href="courses.jsp#german" class="btn btn-course-german">Know More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
             </div>
         </section>
@@ -620,7 +564,7 @@
                                 <div class="p-3 rounded-3" style="background:#f0f4ff;border-left:4px solid #1a237e;">
                                     <strong><i class="fas fa-user-tie text-primary me-2"></i>Mr. Shebin</strong>
                                     <ul class="mt-2 mb-0 small text-muted ps-3">
-                                        <li>Co-Founder</li>
+                                        <li>Founder</li>
                                         <li>Head of Operations & Student Support</li>
                                         <li>Attends calls and guides students</li>
                                         <li>Career Counseling & International Student Assistance</li>
@@ -832,9 +776,9 @@
                     <p class="section-subtitle">Your feedback helps us grow and helps others choose the right institute.
                     </p>
                 </div>
-                <div class="row justify-content-center">
-                    <div class="col-lg-8 col-md-10" data-aos="zoom-in">
-                        <div class="bg-white rounded-4 shadow p-5 text-center">
+                <div class="row g-4 justify-content-center align-items-stretch">
+                    <div class="col-lg-6 col-md-12" data-aos="zoom-in">
+                        <div class="bg-white rounded-4 shadow p-5 text-center h-100 d-flex flex-column justify-content-center">
                             <div class="mb-4">
                                 <i class="fab fa-google fa-3x" style="color:#4285F4;"></i>
                             </div>
@@ -846,13 +790,43 @@
                                 on the Google review form provided above and include a comment. Your feedback will be
                                 very helpful to us. Thank you &#10084;&#65039;&#129306;
                             </p>
-                            <a href="https://g.page/r/CX1Y8v_ns6NGEAE/review" target="_blank"
-                                class="btn btn-primary btn-lg px-5 py-3 rounded-pill shadow-sm">
-                                <i class="fab fa-google me-2"></i> Write a Google Review
-                            </a>
+                            <div>
+                                <a href="https://g.page/r/CX1Y8v_ns6NGEAE/review" target="_blank"
+                                    class="btn btn-primary btn-lg px-5 py-3 rounded-pill shadow-sm">
+                                    <i class="fab fa-google me-2"></i> Write a Google Review
+                                </a>
+                            </div>
                             <p class="small text-muted mt-3">
-                                <i class="fas fa-lock me-1"></i> Opens Google Reviews — takes less than 1 minute!
+                                <i class="fas fa-lock me-1"></i> Opens Google Reviews &mdash; takes less than 1 minute!
                             </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12" data-aos="zoom-in" data-aos-delay="100">
+                        <div class="row g-3">
+                            <div class="col-12">
+                                <div class="bg-white rounded-4 shadow p-4 border-start border-4 border-warning h-100">
+                                    <div class="d-flex align-items-center mb-3">
+                                        <div class="bg-light rounded-circle d-flex align-items-center justify-content-center me-3" style="width:50px;height:50px;font-size:1.5rem;color:#1a237e;font-weight:bold;">A</div>
+                                        <div>
+                                            <h5 class="mb-0">Anju Mathew</h5>
+                                            <div class="text-warning small"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                                        </div>
+                                    </div>
+                                    <p class="mb-0 text-muted fst-italic">"Best institute for OET and IELTS! Teachers are very supportive and the materials are excellent. Highly recommended for anyone looking to go abroad."</p>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="bg-white rounded-4 shadow p-4 border-start border-4 border-warning h-100">
+                                    <div class="d-flex align-items-center mb-3">
+                                        <div class="bg-light rounded-circle d-flex align-items-center justify-content-center me-3" style="width:50px;height:50px;font-size:1.5rem;color:#1a237e;font-weight:bold;">J</div>
+                                        <div>
+                                            <h5 class="mb-0">Jobin Joseph</h5>
+                                            <div class="text-warning small"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                                        </div>
+                                    </div>
+                                    <p class="mb-0 text-muted fst-italic">"Got my desired score in NCLEX-RN on my first attempt. Thank you Smitha Ma'am and Shebin Sir for the continuous support. Best place in Kottayam."</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -990,7 +964,6 @@
                                 <div class="ci-icon"><i class="fas fa-envelope"></i></div>
                                 <div>
                                     <strong>Email:</strong><br>
-                                    <a href="mailto:info@smithasacademy.com">info@smithasacademy.com</a><br>
                                     <a href="mailto:smithasacademy2k25@gmail.com">smithasacademy2k25@gmail.com</a>
                                 </div>
                             </div>
