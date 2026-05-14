@@ -17,6 +17,8 @@
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Playfair+Display:wght@700&display=swap"
             rel="stylesheet">
         <link href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" rel="stylesheet">
+        <!-- Fancybox CSS for Lightbox Gallery -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
         <link rel="stylesheet" href="css/style.css">
     </head>
 
@@ -476,6 +478,42 @@
                 </div>
 
             </div>
+            </div>
+        </section>
+
+        <!-- Institution Highlights Gallery Section -->
+        <section class="section-padding bg-white text-center pb-2">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8" data-aos="zoom-in">
+                        <div class="p-5 rounded-4 shadow-lg bg-light" style="border-top: 5px solid #ffc107;">
+                            <h2 class="section-title mb-3">Institution Highlights</h2>
+                            <p class="lead mb-4 text-secondary">Take a closer look at what Smitha's Academy has to offer. Browse our brochures and latest updates.</p>
+                            
+                            <!-- Main Thumbnail -->
+                            <a href="images/gallery/1.jpg" data-fancybox="gallery" data-caption="Institution Flyer 1" class="d-inline-block position-relative shadow" style="border-radius: 15px; overflow: hidden; transition: transform 0.3s ease;">
+                                <!-- Placeholder Image until user uploads real ones -->
+                                <img src="https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=600&auto=format&fit=crop" alt="Institution Highlights" class="img-fluid" style="max-height: 250px; object-fit: cover;">
+                                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center bg-dark bg-opacity-50" style="opacity: 0; transition: opacity 0.3s ease;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0'">
+                                    <i class="fas fa-search-plus fa-3x text-white"></i>
+                                </div>
+                            </a>
+                            <div class="mt-3">
+                                <span class="badge bg-warning text-dark px-3 py-2 fs-6 rounded-pill"><i class="fas fa-images me-1"></i> Click to View 7 Flyers</span>
+                            </div>
+
+                            <!-- Hidden Images for Lightbox -->
+                            <div style="display:none;">
+                                <a href="images/gallery/2.jpg" data-fancybox="gallery" data-caption="Flyer 2"></a>
+                                <a href="images/gallery/3.jpg" data-fancybox="gallery" data-caption="Flyer 3"></a>
+                                <a href="images/gallery/4.jpg" data-fancybox="gallery" data-caption="Flyer 4"></a>
+                                <a href="images/gallery/5.jpg" data-fancybox="gallery" data-caption="Flyer 5"></a>
+                                <a href="images/gallery/6.jpg" data-fancybox="gallery" data-caption="Flyer 6"></a>
+                                <a href="images/gallery/7.jpg" data-fancybox="gallery" data-caption="Flyer 7"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
 
@@ -1091,6 +1129,15 @@
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+        <!-- Fancybox JS for Lightbox Gallery -->
+        <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+        <script>
+            Fancybox.bind('[data-fancybox="gallery"]', {
+                Thumbs: {
+                    autoStart: false
+                }
+            });
+        </script>
         <script src="js/main.js"></script>
     </body>
 

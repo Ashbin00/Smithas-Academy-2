@@ -116,7 +116,7 @@
                                                     </div>
                                                     <% } %>
 
-                                                        <form action="register-submit" method="post"
+                                                        <form action="register-student" method="post"
                                                             class="needs-validation" novalidate>
 
                                                             <div class="form-section-title"><i

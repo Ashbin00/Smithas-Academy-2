@@ -24,13 +24,13 @@ public class RegisterServlet extends HttpServlet {
         String email     = sanitize(request.getParameter("email"));
         String gender    = sanitize(request.getParameter("gender"));
         
-        String phone     = sanitize(request.getParameter("phone"));
+        String phone     = sanitize(request.getParameter("mobile"));
         String whatsapp  = sanitize(request.getParameter("whatsapp"));
         String profession= sanitize(request.getParameter("profession"));
         String city      = sanitize(request.getParameter("city"));
 
         // Course selection
-        String course        = sanitize(request.getParameter("courseName"));
+        String course        = sanitize(request.getParameter("course"));
         String batchPref     = sanitize(request.getParameter("batchPref"));
         String referralSource= sanitize(request.getParameter("referralSource"));
 
@@ -43,9 +43,8 @@ public class RegisterServlet extends HttpServlet {
 
         String fullName = firstName + " " + (lastName != null ? lastName : "");
 
-        // TODO: Persist to database
-        // StudentRegistrationDao dao = new StudentRegistrationDao();
-        // dao.register(fullName, email, phone, course, batchPref, city);
+        // Google Sheets Integration
+        sendToGoogleSheets(firstName, lastName, email, phone, course, city);
 
         // Send email notification to the academy
         MailService.sendRegistrationEmail(fullName, email, phone, course, batchPref, city);
@@ -73,5 +72,43 @@ public class RegisterServlet extends HttpServlet {
         String val = input.trim();
         if (val.isEmpty()) return null;
         return val.replaceAll("<[^>]*>", "");
+    }
+
+    private void sendToGoogleSheets(String firstName, String lastName, String email, String phone, String course, String city) {
+        // IMPORTANT: Replace this URL with the Google Apps Script Web App URL you generate
+        String scriptUrl = "https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec"; 
+        
+        if (scriptUrl.contains("YOUR_SCRIPT_ID")) {
+            System.out.println("[WARNING] Google Sheets URL not configured. Data not saved to sheet.");
+            return;
+        }
+
+        try {
+            java.net.URL url = new java.net.URL(scriptUrl);
+            java.net.HttpURLConnection conn = (java.net.HttpURLConnection) url.openConnection();
+            conn.setRequestMethod("POST");
+            conn.setDoOutput(true);
+            conn.setRequestProperty("Content-Type", "application/json");
+
+            String jsonPayload = String.format(
+                "{\"firstName\":\"%s\", \"lastName\":\"%s\", \"email\":\"%s\", \"phone\":\"%s\", \"course\":\"%s\", \"city\":\"%s\"}",
+                escapeJson(firstName), escapeJson(lastName), escapeJson(email), escapeJson(phone), escapeJson(course), escapeJson(city)
+            );
+
+            try (java.io.OutputStream os = conn.getOutputStream()) {
+                byte[] input = jsonPayload.getBytes("utf-8");
+                os.write(input, 0, input.length);
+            }
+            int responseCode = conn.getResponseCode();
+            System.out.println("[Google Sheets] Data sent. Response code: " + responseCode);
+        } catch (Exception e) {
+            e.printStackTrace();
+            System.err.println("Failed to send data to Google Sheets.");
+        }
+    }
+
+    private String escapeJson(String data) {
+        if (data == null) return "";
+        return data.replace("\"", "\\\"").replace("\n", " ").replace("\r", "");
     }
 }
