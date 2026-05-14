@@ -25,11 +25,11 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-8 d-flex flex-wrap gap-3">
-                        <a href="tel:+918921386889" class="text-white text-decoration-none">
-                            <i class="fas fa-phone-alt me-1"></i> +91 8921386889
+                        <a href="tel:+918921386389" class="text-white text-decoration-none">
+                            <i class="fas fa-phone-alt me-1"></i> +91 8921 386 389
                         </a>
-                        <a href="mailto:info@smithasacademy.com" class="text-white text-decoration-none">
-                            <i class="fas fa-envelope me-1"></i> info@smithasacademy.com
+                        <a href="mailto:smithasacademy2k25@gmail.com" class="text-white text-decoration-none">
+                            <i class="fas fa-envelope me-1"></i> smithasacademy2k25@gmail.com
                         </a>
                         <span class="text-white">
                             <i class="fas fa-map-marker-alt me-1"></i> Pampady, Kottayam, Kerala, India
@@ -37,9 +37,9 @@
                     </div>
                     <div class="col-md-4 text-end d-flex justify-content-end gap-3">
                         <a href="#" title="Facebook"><i class="fab fa-facebook-f text-white"></i></a>
-                        <a href="#" title="Instagram"><i class="fab fa-instagram text-white"></i></a>
+                        <a href="https://www.instagram.com/smithas_academy?igsh=MWh6bXgydDNoOThhcw==" title="Instagram" target="_blank"><i class="fab fa-instagram text-white"></i></a>
                         <a href="#" title="YouTube"><i class="fab fa-youtube text-white"></i></a>
-                        <a href="#" title="WhatsApp"><i class="fab fa-whatsapp text-white"></i></a>
+                        <a href="https://wa.me/message/LAGKHQQG3N7NP1" title="WhatsApp" target="_blank"><i class="fab fa-whatsapp text-white"></i></a>
                     </div>
                 </div>
             </div>
@@ -108,7 +108,7 @@
                                 <div class="stat-label">Success Rate</div>
                             </div>
                             <div class="stat-item">
-                                <div class="stat-num">10+</div>
+                                <div class="stat-num">2+</div>
                                 <div class="stat-label">Years Experience</div>
                             </div>
                         </div>
@@ -141,7 +141,7 @@
                             Our students achieved Band 8.5 in IELTS! &nbsp;&nbsp;&nbsp;
                             Free Demo Class every Saturday - Register Now! &nbsp;&nbsp;&nbsp;
                             OET &amp; NCLEX-RN weekend batches available for working professionals. &nbsp;&nbsp;&nbsp;
-                            Call us: 8921386889 / 9074912975 for free counseling.
+                            Call us: 8921 386 389 / 9074 912 975 for free counseling.
                         </span>
                     </div>
                 </div>
@@ -157,6 +157,230 @@
                 </div>
 
                 <div class="row g-4">
+                    <!-- HIGHLIGHTED: Top 5 Priority Courses -->
+                    <div class="col-12" data-aos="fade-up">
+                        <div class="text-center py-2 px-3 rounded-3 mb-1" style="background:linear-gradient(135deg,#1a237e,#283593);color:#fff;">
+                            <i class="fas fa-star me-2"></i><strong>Featured Programs — Most Sought-After Courses</strong>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                        <div class="course-card h-100" style="border-top:4px solid #c62828;">
+                            <div class="course-icon" style="background:linear-gradient(135deg,#c62828,#b71c1c);color:#fff;"><i class="fas fa-stethoscope"></i></div>
+                            <div class="course-badge-label" style="background:#c62828;">&#11088; Top Priority</div>
+                            <h3>NCLEX-RN</h3>
+                            <p class="text-muted">Licensure exam for Registered Nurses to work in the USA, Canada &amp; Australia.</p>
+                            <ul class="course-features">
+                                <li><i class="fas fa-check-circle text-success me-2"></i>USA / Canada / Australia</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>CAT-Based &amp; NGN Format</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Mock Tests &amp; Case Studies</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Online via Google Meet</li>
+                            </ul>
+                            <div class="course-footer mt-auto"><div class="d-flex justify-content-between align-items-center">
+                                <span class="course-duration"><i class="far fa-clock me-1"></i>8-16 Weeks</span>
+                                <a href="register.jsp" class="btn btn-course">Enroll Now</a>
+                            </div></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                        <div class="course-card h-100" style="border-top:4px solid #1565c0;">
+                            <div class="course-icon" style="background:linear-gradient(135deg,#1565c0,#0d47a1);color:#fff;"><i class="fas fa-hospital"></i></div>
+                            <div class="course-badge-label" style="background:#1565c0;">&#11088; Top Priority</div>
+                            <h3>DHA</h3>
+                            <p class="text-muted">Dubai Health Authority licensing exam for healthcare professionals seeking to work in Dubai, UAE.</p>
+                            <ul class="course-features">
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Dubai Healthcare Licensing</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Nurses, Doctors &amp; Allied Health</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>MCQ-Based Preparation</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Study Material Provided</li>
+                            </ul>
+                            <div class="course-footer mt-auto"><div class="d-flex justify-content-between align-items-center">
+                                <span class="course-duration"><i class="far fa-clock me-1"></i>4-8 Weeks</span>
+                                <a href="register.jsp" class="btn btn-course">Enroll Now</a>
+                            </div></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+                        <div class="course-card h-100" style="border-top:4px solid #6a1b9a;">
+                            <div class="course-icon" style="background:linear-gradient(135deg,#6a1b9a,#4a148c);color:#fff;"><i class="fas fa-user-md"></i></div>
+                            <div class="course-badge-label" style="background:#6a1b9a;">&#11088; Top Priority</div>
+                            <h3>PROMETRIC</h3>
+                            <p class="text-muted">Licensing exams for healthcare professionals across Saudi Arabia, Qatar, Bahrain, Oman &amp; Kuwait.</p>
+                            <ul class="course-features">
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Gulf Countries Licensing</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>All Healthcare Professions</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>SLE / MOH Saudi Prep</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Practice Question Banks</li>
+                            </ul>
+                            <div class="course-footer mt-auto"><div class="d-flex justify-content-between align-items-center">
+                                <span class="course-duration"><i class="far fa-clock me-1"></i>4-8 Weeks</span>
+                                <a href="register.jsp" class="btn btn-course">Enroll Now</a>
+                            </div></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                        <div class="course-card h-100" style="border-top:4px solid #00695c;">
+                            <div class="course-icon" style="background:linear-gradient(135deg,#00695c,#004d40);color:#fff;"><i class="fas fa-clinic-medical"></i></div>
+                            <div class="course-badge-label" style="background:#00695c;">&#11088; Top Priority</div>
+                            <h3>MOH</h3>
+                            <p class="text-muted">UAE Ministry of Health licensing exam for nurses, doctors, and allied healthcare professionals.</p>
+                            <ul class="course-features">
+                                <li><i class="fas fa-check-circle text-success me-2"></i>UAE MOH License</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>All Healthcare Cadres</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Comprehensive MCQ Prep</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Online via Google Meet</li>
+                            </ul>
+                            <div class="course-footer mt-auto"><div class="d-flex justify-content-between align-items-center">
+                                <span class="course-duration"><i class="far fa-clock me-1"></i>4-8 Weeks</span>
+                                <a href="register.jsp" class="btn btn-course">Enroll Now</a>
+                            </div></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                        <div class="course-card h-100" style="border-top:4px solid #e65100;">
+                            <div class="course-icon" style="background:linear-gradient(135deg,#e65100,#bf360c);color:#fff;"><i class="fas fa-shield-alt"></i></div>
+                            <div class="course-badge-label" style="background:#e65100;">&#11088; Top Priority</div>
+                            <h3>HAAD</h3>
+                            <p class="text-muted">Health Authority Abu Dhabi (DOH) exam for healthcare professionals seeking to practice in Abu Dhabi.</p>
+                            <ul class="course-features">
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Abu Dhabi DOH License</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Doctors, Nurses &amp; Allied</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Targeted MCQ Practice</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Online &amp; Offline Coaching</li>
+                            </ul>
+                            <div class="course-footer mt-auto"><div class="d-flex justify-content-between align-items-center">
+                                <span class="course-duration"><i class="far fa-clock me-1"></i>4-8 Weeks</span>
+                                <a href="register.jsp" class="btn btn-course">Enroll Now</a>
+                            </div></div>
+                        </div>
+                    </div>
+
+                    <!-- Other Courses -->
+                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                        <div class="course-card h-100">
+                            <div class="course-icon ielts-icon"><i class="fas fa-globe-americas"></i></div>
+                            <h3>PTE</h3>
+                            <p class="text-muted">Pearson Test of English Academic – accepted worldwide for study visa and immigration purposes.</p>
+                            <ul class="course-features">
+                                <li><i class="fas fa-check-circle text-success me-2"></i>AI-Scored Exam Prep</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Speaking, Writing, Reading</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Computer-Based Practice</li>
+                            </ul>
+                            <div class="course-footer mt-auto"><div class="d-flex justify-content-between align-items-center">
+                                <span class="course-duration"><i class="far fa-clock me-1"></i>4-8 Weeks</span>
+                                <a href="register.jsp" class="btn btn-course">Know More</a>
+                            </div></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                        <div class="course-card h-100 german-theme">
+                            <div class="course-icon german-icon"><i class="fas fa-language"></i></div>
+                            <h3>German Language</h3>
+                            <p class="text-muted">Learn German from A1 to B2 – perfect for nurses and professionals moving to Germany.</p>
+                            <ul class="course-features">
+                                <li><i class="fas fa-check-circle text-success me-2"></i>A1, A2, B1, B2 Levels (Goethe)</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Conversational German</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Germany Job Seeker Visa Guide</li>
+                            </ul>
+                            <div class="course-footer mt-auto"><div class="d-flex justify-content-between align-items-center">
+                                <span class="course-duration"><i class="far fa-clock me-1"></i>3-12 Months</span>
+                                <a href="register.jsp" class="btn btn-course-german">Know More</a>
+                            </div></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+                        <div class="course-card h-100 oet-theme">
+                            <div class="course-icon oet-icon"><i class="fas fa-heartbeat"></i></div>
+                            <h3>OET</h3>
+                            <p class="text-muted">Occupational English Test for healthcare professionals seeking to work in the UK, Australia &amp; NZ.</p>
+                            <ul class="course-features">
+                                <li><i class="fas fa-check-circle text-success me-2"></i>For Nurses, Doctors, Pharmacists</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Medical Vocabulary &amp; Roleplay</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>20+ OET Mock Tests</li>
+                            </ul>
+                            <div class="course-footer mt-auto"><div class="d-flex justify-content-between align-items-center">
+                                <span class="course-duration"><i class="far fa-clock me-1"></i>6-10 Weeks</span>
+                                <a href="register.jsp" class="btn btn-course-oet">Know More</a>
+                            </div></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                        <div class="course-card h-100">
+                            <div class="course-icon ielts-icon"><i class="fas fa-globe-americas"></i></div>
+                            <div class="course-badge-label">Most Popular</div>
+                            <h3>IELTS</h3>
+                            <p class="text-muted">International English Language Testing System – for study, work, and immigration abroad.</p>
+                            <ul class="course-features">
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Academic &amp; General Training</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Full Mock Tests</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Band Score Guarantee*</li>
+                            </ul>
+                            <div class="course-footer mt-auto"><div class="d-flex justify-content-between align-items-center">
+                                <span class="course-duration"><i class="far fa-clock me-1"></i>4-12 Weeks</span>
+                                <a href="register.jsp" class="btn btn-course">Know More</a>
+                            </div></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                        <div class="course-card h-100">
+                            <div class="course-icon" style="background:linear-gradient(135deg,#37474f,#263238);color:#fff;"><i class="fas fa-certificate"></i></div>
+                            <h3>CBT</h3>
+                            <p class="text-muted">Computer Based Test for NMC UK – mandatory for internationally trained nurses seeking UK registration.</p>
+                            <ul class="course-features">
+                                <li><i class="fas fa-check-circle text-success me-2"></i>NMC UK Nursing Registration</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Test of Competence Prep</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Scenario-Based Questions</li>
+                            </ul>
+                            <div class="course-footer mt-auto"><div class="d-flex justify-content-between align-items-center">
+                                <span class="course-duration"><i class="far fa-clock me-1"></i>4-8 Weeks</span>
+                                <a href="register.jsp" class="btn btn-course">Know More</a>
+                            </div></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+                        <div class="course-card h-100">
+                            <div class="course-icon" style="background:linear-gradient(135deg,#d84315,#bf360c);color:#fff;"><i class="fas fa-heartbeat"></i></div>
+                            <h3>BLS</h3>
+                            <p class="text-muted">Basic Life Support certification – essential for healthcare professionals across international hospitals.</p>
+                            <ul class="course-features">
+                                <li><i class="fas fa-check-circle text-success me-2"></i>AHA / RQI Standard</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>CPR &amp; AED Training</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>Required for Gulf &amp; US Jobs</li>
+                            </ul>
+                            <div class="course-footer mt-auto"><div class="d-flex justify-content-between align-items-center">
+                                <span class="course-duration"><i class="far fa-clock me-1"></i>1-2 Days</span>
+                                <a href="register.jsp" class="btn btn-course">Know More</a>
+                            </div></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                        <div class="course-card h-100">
+                            <div class="course-icon" style="background:linear-gradient(135deg,#880e4f,#6a0036);color:#fff;"><i class="fas fa-procedures"></i></div>
+                            <h3>ACLS</h3>
+                            <p class="text-muted">Advanced Cardiovascular Life Support – advanced certification required for critical care and emergency nurses.</p>
+                            <ul class="course-features">
+                                <li><i class="fas fa-check-circle text-success me-2"></i>AHA Accredited Standard</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>ECG &amp; Cardiac Rhythms</li>
+                                <li><i class="fas fa-check-circle text-success me-2"></i>ICU / ER / CCU Requirements</li>
+                            </ul>
+                            <div class="course-footer mt-auto"><div class="d-flex justify-content-between align-items-center">
+                                <span class="course-duration"><i class="far fa-clock me-1"></i>2-3 Days</span>
+                                <a href="register.jsp" class="btn btn-course">Know More</a>
+                            </div></div>
+                        </div>
+                    </div>
+
+                </div>
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                         <div class="course-card h-100">
                             <div class="course-icon ielts-icon">
@@ -250,14 +474,14 @@
                         <div class="why-card text-center">
                             <div class="why-icon"><i class="fas fa-chalkboard-teacher"></i></div>
                             <h5>Expert Trainers</h5>
-                            <p>Certified and experienced trainers with 8+ years of IELTS and OET coaching expertise.</p>
+                            <p>Certified and experienced trainers with <strong>15+ years of expertise</strong> in IELTS, OET, NCLEX-RN &amp; German coaching.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="200">
                         <div class="why-card text-center">
                             <div class="why-icon"><i class="fas fa-laptop-code"></i></div>
                             <h5>Online + Offline</h5>
-                            <p>Attend classes from home via Zoom or join our physical center in Pampady,Kottayam.</p>
+                            <p>Attend live classes from home via <strong>Google Meet</strong> or join our physical center in Pampady, Kottayam.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="300">
@@ -290,7 +514,7 @@
                             </div>
                             <div class="about-badge-float">
                                 <div class="text-center">
-                                    <h3 class="fw-bold mb-0">10+</h3>
+                                    <h3 class="fw-bold mb-0">2+</h3>
                                     <small>Years of Excellence</small>
                                 </div>
                             </div>
@@ -301,18 +525,36 @@
                         <h2 class="section-title mt-2">Welcome to <span class="text-primary">Smitha's Academy</span>
                         </h2>
                         <p class="mt-3">
-                            Founded with a vision to provide world-class language training, <strong>Smitha's
-                                Academy</strong>
-                            is Kottayam's most trusted institute for IELTS, OET, NCLEX-RN, PROMETRIC, DHA, German and
-                            more.
-                            Located in Pampady, Kottayam, Kerala, we have helped over <strong>1,500+ students</strong>
-                            achieve their dream scores and build successful international careers.
+                            Founded with a passion for quality education, <strong>Smitha's
+                                Academy</strong> is Kottayam's most trusted institute for IELTS, OET, NCLEX-RN, PROMETRIC, DHA, German and more.
+                            Located in Pampady, Kottayam, we have helped students from <strong>10+ countries</strong> achieve their international goals via personalized coaching and Google Meet online classes.
                         </p>
-                        <p>
-                            Our academy is led by <strong>Mrs. Smitha</strong>, a renowned language trainer and educator
-                            with over a decade of experience in international language certifications. We believe in
-                            a student-first approach - every lesson is crafted for real results.
-                        </p>
+                        <div class="row mt-3 g-3">
+                            <div class="col-md-6">
+                                <div class="p-3 rounded-3" style="background:#f0f4ff;border-left:4px solid #1a237e;">
+                                    <strong><i class="fas fa-user-tie text-primary me-2"></i>Mrs. Smitha</strong>
+                                    <ul class="mt-2 mb-0 small text-muted ps-3">
+                                        <li>Lead Trainer &amp; Founder</li>
+                                        <li>Expert in IELTS, OET &amp; German Language</li>
+                                        <li>15+ Years Teaching Experience</li>
+                                        <li>Certified Language Coach</li>
+                                        <li>Passionate about student success</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="p-3 rounded-3" style="background:#f0f4ff;border-left:4px solid #1a237e;">
+                                    <strong><i class="fas fa-user-tie text-primary me-2"></i>Mr. Shebin</strong>
+                                    <ul class="mt-2 mb-0 small text-muted ps-3">
+                                        <li>Co-Founder &amp; Head of Operations</li>
+                                        <li>Expert in NCLEX-RN, DHA &amp; PROMETRIC</li>
+                                        <li>Student Career Counselor</li>
+                                        <li>Healthcare Exam Specialist</li>
+                                        <li>International Career Guidance Expert</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
                         <div class="row mt-4 g-3">
                             <div class="col-6">
                                 <div class="about-stat">
@@ -494,14 +736,14 @@
                     <div class="col-lg-3 col-6" data-aos="zoom-in" data-aos-delay="300">
                         <div class="counter-item">
                             <i class="fas fa-star"></i>
-                            <span class="counter-num" data-count="10">10+</span>
-                            <div class="counter-label">Years of Excellence</div>
+                            <span class="counter-num" data-count="2">2+</span>
+                            <div class="counter-label">Years of Experience</div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6" data-aos="zoom-in" data-aos-delay="400">
                         <div class="counter-item">
                             <i class="fas fa-flag"></i>
-                            <span class="counter-num" data-count="20">20+</span>
+                            <span class="counter-num" data-count="10">10+</span>
                             <div class="counter-label">Countries Reached</div>
                         </div>
                     </div>
@@ -512,68 +754,35 @@
         <section class="section-padding bg-light" id="testimonials">
             <div class="container">
                 <div class="section-header text-center mb-5" data-aos="fade-up">
-                    <span class="section-badge">Student Reviews</span>
-                    <h2 class="section-title">Success Stories</h2>
-                    <p class="section-subtitle">Real students, real results from Smitha's Academy.</p>
+                    <span class="section-badge">Google Reviews</span>
+                    <h2 class="section-title">Share Your Experience</h2>
+                    <p class="section-subtitle">Your feedback helps us grow and helps others choose the right institute.</p>
                 </div>
-
-                <div class="row g-4">
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-                        <div class="testimonial-card">
-                            <div class="stars mb-2">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
-                                    class="fas fa-star"></i><i class="fas fa-star"></i>
+                <div class="row justify-content-center">
+                    <div class="col-lg-8 col-md-10" data-aos="zoom-in">
+                        <div class="bg-white rounded-4 shadow p-5 text-center">
+                            <div class="mb-4">
+                                <i class="fab fa-google fa-3x" style="color:#4285F4;"></i>
                             </div>
-                            <p class="testimonial-text">"I got Band 8.0 in IELTS on my first attempt! The speaking
-                                sessions at Smitha's Academy were excellent. Highly Recommended!"</p>
-                            <div class="testimonial-author">
-                                <div class="author-avatar ielts-av">AK</div>
-                                <div class="author-info">
-                                    <strong>Anoop Kumar</strong>
-                                    <div class="small text-muted">IELTS Band 8.0 | Now in Canada</div>
-                                </div>
+                            <div class="mb-3" style="font-size:2rem;color:#fbbc04;letter-spacing:4px;">
+                                &#9733;&#9733;&#9733;&#9733;&#9733;
                             </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-                        <div class="testimonial-card">
-                            <div class="stars mb-2">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
-                                    class="fas fa-star"></i><i class="fas fa-star"></i>
-                            </div>
-                            <p class="testimonial-text">"As a nurse planning to move to the UK, OET was a big challenge.
-                                Thanks to Smitha Ma'am's guidance, I passed with Grade B. She's amazing!"</p>
-                            <div class="testimonial-author">
-                                <div class="author-avatar oet-av">PJ</div>
-                                <div class="author-info">
-                                    <strong>Priya Jacob</strong>
-                                    <div class="small text-muted">OET Grade B | Staff Nurse, UK</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-                        <div class="testimonial-card">
-                            <div class="stars mb-2">
-                                <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
-                                    class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
-                            </div>
-                            <p class="testimonial-text">"Completed German B1 here and now working in Frankfurt. The
-                                course covered everything - grammar, speaking and exam preparation perfectly."</p>
-                            <div class="testimonial-author">
-                                <div class="author-avatar german-av">RN</div>
-                                <div class="author-info">
-                                    <strong>Rahul Nair</strong>
-                                    <div class="small text-muted">German B1 | IT Engineer, Germany</div>
-                                </div>
-                            </div>
+                            <p class="lead fw-normal mb-4" style="color:#333;line-height:1.8;">
+                                Hi. We would greatly appreciate it if you could give Smitha's Academy a five-star rating on the Google review form provided above and include a comment. Your feedback will be very helpful to us. Thank you &#10084;&#65039;&#129306;
+                            </p>
+                            <a href="https://g.page/r/CX1Y8v_ns6NGEAE/review" target="_blank"
+                                class="btn btn-primary btn-lg px-5 py-3 rounded-pill shadow-sm">
+                                <i class="fab fa-google me-2"></i> Write a Google Review
+                            </a>
+                            <p class="small text-muted mt-3">
+                                <i class="fas fa-lock me-1"></i> Opens Google Reviews — takes less than 1 minute!
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
 
         <section class="cta-section section-padding text-white text-center">
             <div class="container" data-aos="zoom-in">
@@ -584,7 +793,7 @@
                     <a href="register.jsp" class="btn btn-light btn-lg px-5">
                         <i class="fas fa-calendar-check me-2"></i> Book Free Demo
                     </a>
-                    <a href="tel:+918921386889" class="btn btn-outline-light btn-lg px-5">
+                    <a href="tel:+918921386389" class="btn btn-outline-light btn-lg px-5">
                         <i class="fas fa-phone me-2"></i> Call Us Now
                     </a>
                 </div>
@@ -697,15 +906,16 @@
                                 <div class="ci-icon"><i class="fas fa-phone-alt"></i></div>
                                 <div>
                                     <strong>Phone / WhatsApp:</strong><br>
-                                    <a href="tel:+918921386889">+91 8921386889</a> / <a
-                                        href="tel:+919074912975">9074912975</a>
+                                    <a href="tel:+918921386389">+91 8921 386 389</a> / <a
+                                        href="tel:+919074912975">9074 912 975</a>
                                 </div>
                             </div>
                             <div class="contact-info-item d-flex mb-3">
                                 <div class="ci-icon"><i class="fas fa-envelope"></i></div>
                                 <div>
                                     <strong>Email:</strong><br>
-                                    <a href="mailto:info@smithasacademy.com">info@smithasacademy.com</a>
+                                    <a href="mailto:info@smithasacademy.com">info@smithasacademy.com</a><br>
+                                    <a href="mailto:smithasacademy2k25@gmail.com">smithasacademy2k25@gmail.com</a>
                                 </div>
                             </div>
                             <div class="contact-info-item d-flex mb-3">
@@ -717,10 +927,10 @@
                                 </div>
                             </div>
                             <div class="d-flex gap-3 mt-4">
-                                <a href="https://wa.me/918921386889" class="btn btn-success">
+                                <a href="https://wa.me/message/LAGKHQQG3N7NP1" class="btn btn-success" target="_blank">
                                     <i class="fab fa-whatsapp me-2"></i> WhatsApp Us
                                 </a>
-                                <a href="tel:+918921386889" class="btn btn-primary">
+                                <a href="tel:+918921386389" class="btn btn-primary">
                                     <i class="fas fa-phone-me-2"></i> Call Now
                                 </a>
                             </div>
@@ -756,9 +966,9 @@
                             </p>
                             <div class="footer-social-links d-flex gap-2 mt-3">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.instagram.com/smithas_academy?igsh=MWh6bXgydDNoOThhcw==" target="_blank"><i class="fab fa-instagram"></i></a>
                                 <a href="#"><i class="fab fa-youtube"></i></a>
-                                <a href="#"><i class="fab fa-whatsapp"></i></a>
+                                <a href="https://wa.me/message/LAGKHQQG3N7NP1" target="_blank"><i class="fab fa-whatsapp"></i></a>
                                 <a href="#"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
@@ -794,12 +1004,12 @@
                             <ul class="footer-contact">
                                 <li><i class="fas fa-map-marker-alt me-2 text-primary"></i> Pampady, Kottayam 686502
                                 </li>
-                                <li><i class="fas fa-phone-alt me-2 text-primary"></i> 8921386889 / 9074912975</li>
-                                <li><i class="fas fa-envelope me-2 text-primary"></i> info@smithasacademy.com</li>
+                                <li><i class="fas fa-phone-alt me-2 text-primary"></i> 8921 386 389 / 9074 912 975</li>
+                                <li><i class="fas fa-envelope me-2 text-primary"></i> smithasacademy2k25@gmail.com</li>
                                 <li><i class="fas fa-clock me-2 text-primary"></i> Mon-Sat: 7 AM - 9 PM</li>
                             </ul>
                             <div class="mt-3">
-                                <a href="https://wa.me/918921386889" class="whatsapp-btn">
+                                <a href="https://wa.me/message/LAGKHQQG3N7NP1" class="whatsapp-btn" target="_blank">
                                     <i class="fab fa-whatsapp me-2"></i> Chat on WhatsApp
                                 </a>
                             </div>
@@ -817,7 +1027,7 @@
             </div>
         </footer>
 
-        <a href="https://wa.me/918921386889" class="whatsapp-float" target="_blank" title="Chat on WhatsApp">
+        <a href="https://wa.me/message/LAGKHQQG3N7NP1" class="whatsapp-float" target="_blank" title="Chat on WhatsApp">
             <i class="fab fa-whatsapp"></i>
         </a>
 
