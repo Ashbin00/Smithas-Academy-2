@@ -450,6 +450,8 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
+
                     <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
                         <div class="course-card h-100" style="border-top:4px solid #0d6efd;">
                             <div class="course-icon"
