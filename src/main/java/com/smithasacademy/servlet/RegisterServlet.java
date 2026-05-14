@@ -31,7 +31,7 @@ public class RegisterServlet extends HttpServlet {
 
         // Course selection
         String course        = sanitize(request.getParameter("course"));
-        String batchPref     = sanitize(request.getParameter("batchPref"));
+        String batchPref     = sanitize(request.getParameter("batchPreference"));
         String referralSource= sanitize(request.getParameter("referralSource"));
 
         // Server-side validation
