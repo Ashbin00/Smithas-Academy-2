@@ -43,8 +43,8 @@ public class RegisterServlet extends HttpServlet {
 
         String fullName = firstName + " " + (lastName != null ? lastName : "");
 
-        // Google Sheets Integration
-        sendToGoogleSheets(firstName, lastName, email, phone, course, city);
+        // Google Form Integration
+        sendToGoogleForm(firstName, lastName, email, phone, course, city);
 
         // Send email notification to the academy
         MailService.sendRegistrationEmail(fullName, email, phone, course, batchPref, city);
@@ -74,41 +74,42 @@ public class RegisterServlet extends HttpServlet {
         return val.replaceAll("<[^>]*>", "");
     }
 
-    private void sendToGoogleSheets(String firstName, String lastName, String email, String phone, String course, String city) {
-        // IMPORTANT: Replace this URL with the Google Apps Script Web App URL you generate
-        String scriptUrl = "https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec"; 
+    private void sendToGoogleForm(String firstName, String lastName, String email, String phone, String course, String city) {
+        // IMPORTANT: Replace this with your Google Form "formResponse" URL
+        String formUrl = "https://docs.google.com/forms/u/0/d/e/YOUR_FORM_ID/formResponse"; 
         
-        if (scriptUrl.contains("YOUR_SCRIPT_ID")) {
-            System.out.println("[WARNING] Google Sheets URL not configured. Data not saved to sheet.");
+        if (formUrl.contains("YOUR_FORM_ID")) {
+            System.out.println("[WARNING] Google Form URL not configured. Data not saved to sheet.");
             return;
         }
 
         try {
-            java.net.URL url = new java.net.URL(scriptUrl);
+            java.net.URL url = new java.net.URL(formUrl);
             java.net.HttpURLConnection conn = (java.net.HttpURLConnection) url.openConnection();
             conn.setRequestMethod("POST");
             conn.setDoOutput(true);
-            conn.setRequestProperty("Content-Type", "application/json");
+            conn.setRequestProperty("Content-Type", "application/x-www-form-urlencoded");
 
-            String jsonPayload = String.format(
-                "{\"firstName\":\"%s\", \"lastName\":\"%s\", \"email\":\"%s\", \"phone\":\"%s\", \"course\":\"%s\", \"city\":\"%s\"}",
-                escapeJson(firstName), escapeJson(lastName), escapeJson(email), escapeJson(phone), escapeJson(course), escapeJson(city)
+            // Replace the "entry.123456" keys below with the actual entry IDs from your Google Form
+            String payload = String.format(
+                "entry.YOUR_FIRSTNAME_ID=%s&entry.YOUR_LASTNAME_ID=%s&entry.YOUR_EMAIL_ID=%s&entry.YOUR_PHONE_ID=%s&entry.YOUR_COURSE_ID=%s&entry.YOUR_CITY_ID=%s",
+                java.net.URLEncoder.encode(firstName != null ? firstName : "", "UTF-8"),
+                java.net.URLEncoder.encode(lastName != null ? lastName : "", "UTF-8"),
+                java.net.URLEncoder.encode(email != null ? email : "", "UTF-8"),
+                java.net.URLEncoder.encode(phone != null ? phone : "", "UTF-8"),
+                java.net.URLEncoder.encode(course != null ? course : "", "UTF-8"),
+                java.net.URLEncoder.encode(city != null ? city : "", "UTF-8")
             );
 
             try (java.io.OutputStream os = conn.getOutputStream()) {
-                byte[] input = jsonPayload.getBytes("utf-8");
+                byte[] input = payload.getBytes("utf-8");
                 os.write(input, 0, input.length);
             }
             int responseCode = conn.getResponseCode();
-            System.out.println("[Google Sheets] Data sent. Response code: " + responseCode);
+            System.out.println("[Google Form] Data sent. Response code: " + responseCode);
         } catch (Exception e) {
             e.printStackTrace();
-            System.err.println("Failed to send data to Google Sheets.");
+            System.err.println("Failed to send data to Google Form.");
         }
-    }
-
-    private String escapeJson(String data) {
-        if (data == null) return "";
-        return data.replace("\"", "\\\"").replace("\n", " ").replace("\r", "");
     }
 }
