@@ -220,8 +220,8 @@
                                 <div class="ci-icon orange"><i class="fas fa-envelope"></i></div>
                                 <div>
                                     <strong class="d-block mb-1">Email</strong>
-                                    <a href="mailto:info@smithasacademy.com"
-                                        class="text-decoration-none">info@smithasacademy.com</a><br>
+                                    <a href="mailto:ashbingeo007@gmail.com"
+                                        class="text-decoration-none">ashbingeo007@gmail.com</a><br>
                                     <a href="mailto:admissions@smithasacademy.com"
                                         class="text-decoration-none">admissions@smithasacademy.com</a>
                                 </div>
@@ -409,7 +409,7 @@
                                 <li><i class="fas fa-map-marker-alt text-primary"></i> Pampady, Kottayam &ndash; 686502
                                 </li>
                                 <li><i class="fas fa-phone-alt text-primary"></i> 8921386889 / 9074912975</li>
-                                <li><i class="fas fa-envelope text-primary"></i> info@smithasacademy.com</li>
+                                <li><i class="fas fa-envelope text-primary"></i> ashbingeo007@gmail.com</li>
                                 <li><i class="fas fa-clock text-primary"></i> Mon-Sat: 7 AM &ndash; 9 PM</li>
                             </ul>
                             <div class="mt-3">

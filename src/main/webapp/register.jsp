@@ -465,7 +465,7 @@
                                 <li><i class="fas fa-map-marker-alt text-primary"></i> Pampady, Kottayam &ndash; 686502
                                 </li>
                                 <li><i class="fas fa-phone-alt text-primary"></i> 8921386889 / 9074912975</li>
-                                <li><i class="fas fa-envelope text-primary"></i> info@smithasacademy.com</li>
+                                <li><i class="fas fa-envelope text-primary"></i> ashbingeo007@gmail.com</li>
                                 <li><i class="fas fa-clock text-primary"></i> Mon-Sat: 7 AM &ndash; 9 PM</li>
                             </ul>
                             <div class="mt-3">
