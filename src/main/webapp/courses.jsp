@@ -21,9 +21,9 @@
             <span class="text-white d-none d-md-inline-block"><i class="fas fa-map-marker-alt me-1"></i> Pampady, Kottayam, Kerala</span>
         </div>
         <div class="social-links d-none d-md-flex justify-content-center">
-            <a href="#" class="text-white me-3"><i class="fab fa-facebook-f"></i></a>
-            <a href="#" class="text-white me-3"><i class="fab fa-instagram"></i></a>
-            <a href="https://wa.me/919188168989" class="text-white" target="_blank"><i class="fab fa-whatsapp"></i></a>
+            <a href="#" class="me-3" style="color: orange;"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="me-3" style="color: orange;"><i class="fab fa-instagram"></i></a>
+            <a href="https://wa.me/919188168989" style="color: orange;" target="_blank"><i class="fab fa-whatsapp"></i></a>
         </div>
     </div>
 </div>
@@ -31,7 +31,7 @@
 <nav class="navbar navbar-expand-lg navbar-light sticky-top shadow-sm">
     <div class="container">
         <a class="navbar-brand d-flex align-items-center gap-2" href="index.jsp">
-            <img src="img/logo.png" alt="Logo" width="40" height="40">
+            <img src="images/logo.jpg" alt="Logo" width="40" height="40" style="border-radius: 50%;">
             <div class="brand-text">
                 <span class="brand-name">Smitha's Academy</span><br>
                 <span class="brand-tagline">Excellence in Language Training</span>

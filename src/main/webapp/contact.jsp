@@ -47,7 +47,7 @@
         <nav class="navbar navbar-expand-lg navbar-light sticky-top shadow-sm" id="mainNav">
             <div class="container">
                 <a class="navbar-brand d-flex align-items-center gap-2" href="index.jsp">
-                    <div class="brand-icon"><i class="fas fa-graduation-cap"></i></div>
+                    <img src="images/logo.jpg" alt="Logo" width="40" height="40" style="border-radius: 50%;">
                     <div>
                         <div class="brand-name">Smitha's Academy</div>
                         <div class="brand-slogan">Excellence in Language Training&reg;</div>
@@ -220,8 +220,8 @@
                                 <div class="ci-icon orange"><i class="fas fa-envelope"></i></div>
                                 <div>
                                     <strong class="d-block mb-1">Email</strong>
-                                    <a href="mailto:ashbingeo007@gmail.com"
-                                        class="text-decoration-none">ashbingeo007@gmail.com</a><br>
+                                    <a href="mailto:ashbinantigravity@gmail.com"
+                                        class="text-decoration-none">ashbinantigravity@gmail.com</a><br>
                                     <a href="mailto:admissions@smithasacademy.com"
                                         class="text-decoration-none">admissions@smithasacademy.com</a>
                                 </div>
@@ -357,10 +357,10 @@
                     <div class="row g-4">
                         <div class="col-lg-4 col-md-6">
                             <div class="footer-brand">
-                                <div class="footer-brand-icon"><i class="fas fa-graduation-cap"></i></div>
+                                <img src="images/logo.jpg" alt="Logo" width="38" height="38" style="border-radius: 50%;" class="me-2">
                                 <span class="text-white fw-bold fs-5">Smitha's Academy</span>
                             </div>
-                            <p class="small" style="color:#94a3b8;">
+                            <p class="small" style="color:#e2e8f0;">
                                 Kottayam's premier language &amp; healthcare exam training institute offering expert
                                 coaching for IELTS, OET, NCLEX-RN, DHA, HAAD, PTE, CBT, and German language.
                             </p>
@@ -409,7 +409,7 @@
                                 <li><i class="fas fa-map-marker-alt text-primary"></i> Pampady, Kottayam &ndash; 686502
                                 </li>
                                 <li><i class="fas fa-phone-alt text-primary"></i> 8921386889 / 9074912975</li>
-                                <li><i class="fas fa-envelope text-primary"></i> ashbingeo007@gmail.com</li>
+                                <li><i class="fas fa-envelope text-primary"></i> ashbinantigravity@gmail.com</li>
                                 <li><i class="fas fa-clock text-primary"></i> Mon-Sat: 7 AM &ndash; 9 PM</li>
                             </ul>
                             <div class="mt-3">
@@ -423,7 +423,6 @@
             </div>
             <div class="footer-bottom">
                 <div class="container text-center">
-                    <p class="mb-0 small" style="color:#64748b;">
                         &copy; 2026 Smitha's Academy, Pampady, Kottayam, Kerala. All Rights Reserved.
                         <br>Designed with <i class="fas fa-heart text-danger"></i> for Excellence in Education
                     </p>

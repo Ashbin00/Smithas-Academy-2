@@ -38,8 +38,7 @@
 
         <nav class="navbar navbar-expand-lg navbar-light sticky-top shadow-sm" id="mainNav">
             <div class="container">
-                <a class="navbar-brand d-flex align-items-center gap-2" href="index.jsp">
-                    <div class="brand-icon"><i class="fas fa-graduation-cap"></i></div>
+                    <img src="images/logo.jpg" alt="Logo" width="40" height="40" style="border-radius: 50%;">
                     <div>
                         <span class="brand-name">Smitha's Academy</span><br>
                         <span class="brand-slogan">Excellence in Language Training&reg;</span>
@@ -421,10 +420,10 @@
                     <div class="row g-4">
                         <div class="col-lg-4 col-md-6">
                             <div class="footer-brand">
-                                <div class="footer-brand-icon"><i class="fas fa-graduation-cap"></i></div>
+                                <img src="images/logo.jpg" alt="Logo" width="38" height="38" style="border-radius: 50%;" class="me-2">
                                 <span class="text-white fw-bold fs-5">Smitha's Academy</span>
                             </div>
-                            <p class="small" style="color:#94a3b8;">Kottayam's premier language &amp; healthcare exam
+                            <p class="small" style="color:#e2e8f0;">Kottayam's premier language &amp; healthcare exam
                                 training institute.</p>
                             <div class="footer-social-links">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -465,7 +464,7 @@
                                 <li><i class="fas fa-map-marker-alt text-primary"></i> Pampady, Kottayam &ndash; 686502
                                 </li>
                                 <li><i class="fas fa-phone-alt text-primary"></i> 8921386889 / 9074912975</li>
-                                <li><i class="fas fa-envelope text-primary"></i> ashbingeo007@gmail.com</li>
+                                <li><i class="fas fa-envelope text-primary"></i> ashbinantigravity@gmail.com</li>
                                 <li><i class="fas fa-clock text-primary"></i> Mon-Sat: 7 AM &ndash; 9 PM</li>
                             </ul>
                             <div class="mt-3">

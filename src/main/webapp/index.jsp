@@ -38,7 +38,8 @@
                         </span>
                     </div>
                     <div class="col-md-4 text-end d-flex justify-content-end gap-3">
-                        <a href="https://www.facebook.com/share/18XuSdNvd5/" title="Facebook" target="_blank"><i class="fab fa-facebook-f text-white"></i></a>
+                        <a href="https://www.facebook.com/share/18XuSdNvd5/" title="Facebook" target="_blank"><i
+                                class="fab fa-facebook-f text-white"></i></a>
                         <a href="https://www.instagram.com/smithas_academy?igsh=MWh6bXgydDNoOThhcw==" title="Instagram"
                             target="_blank"><i class="fab fa-instagram text-white"></i></a>
                         <a href="#" title="YouTube"><i class="fab fa-youtube text-white"></i></a>
@@ -51,12 +52,11 @@
 
         <nav class="navbar navbar-expand-lg navbar-light sticky-top shadow-sm" id="mainNav">
             <div class="container">
-                <a class="navbar-brand d-flex align-items-center gap-2" href="index.jsp">
-                    <div class="brand-icon"><i class="fas fa-graduation-cap"></i></div>
-                    <div>
-                        <div class="brand-name">Smitha's Academy</div>
-                        <div class="brand-slogan">Excellence in Language Training&reg;</div>
-                    </div>
+                <img src="images/logo.jpg" alt="Logo" width="40" height="40" style="border-radius: 50%;">
+                <div>
+                    <div class="brand-name">Smitha's Academy</div>
+                    <div class="brand-slogan">Excellence in Language Training&reg;</div>
+                </div>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
                     <span class="navbar-toggler-icon"></span>
@@ -99,7 +99,7 @@
                             <i class="fas fa-star me-1"></i> Kottayam's #1 Language &amp; Healthcare Exam Institute
                         </div>
                         <h1 class="hero-title">
-                            Achieve Your <span class="text-highlight">Dream Score</span><br>
+                            Educate <span class="text-highlight">Innovate,Elevate</span><br>
                             <span class="fs-3 d-block mt-3"
                                 style="line-height: 1.6; font-weight: 600; font-family: 'Poppins', sans-serif; color: #ffeb3b;">
                                 NCLEX-RN &bull; DHA &bull; PROMETRIC &bull; MOH &bull; HAAD &bull; PTE &bull; GERMAN
@@ -460,7 +460,8 @@
                                 style="background:linear-gradient(135deg,#0d6efd,#0a58ca);color:#fff;"><i
                                     class="fas fa-language"></i></div>
                             <h3>FRENCH</h3>
-                            <p class="text-muted">Learn French for Canada Migration (TEF/TCF) or personal interest. Certified training for A1, A2 &amp; B1 levels.</p>
+                            <p class="text-muted">Learn French for Canada Migration (TEF/TCF) or personal interest.
+                                Certified training for A1, A2 &amp; B1 levels.</p>
                             <ul class="course-features">
                                 <li><i class="fas fa-check-circle text-success me-2"></i>DELF/TEF/TCF Focus</li>
                                 <li><i class="fas fa-check-circle text-success me-2"></i>Grammar &amp; Vocabulary</li>
@@ -488,28 +489,42 @@
                     <div class="col-lg-8" data-aos="zoom-in">
                         <div class="p-5 rounded-4 shadow-lg bg-light" style="border-top: 5px solid #ffc107;">
                             <h2 class="section-title mb-3">Institution Highlights</h2>
-                            <p class="lead mb-4 text-secondary">Take a closer look at what Smitha's Academy has to offer. Browse our brochures and latest updates.</p>
-                            
+                            <p class="lead mb-4 text-secondary">Take a closer look at what Smitha's Academy has to
+                                offer. Browse our brochures and latest updates.</p>
+
                             <!-- Main Thumbnail -->
-                            <a href="images/gallery/1.jpg" data-fancybox="gallery" data-caption="Institution Flyer 1" class="d-inline-block position-relative shadow" style="border-radius: 15px; overflow: hidden; transition: transform 0.3s ease;">
+                            <a href="images/gallery/1.jpg" data-fancybox="gallery" data-caption="Institution Flyer 1"
+                                class="d-inline-block position-relative shadow"
+                                style="border-radius: 15px; overflow: hidden; transition: transform 0.3s ease;">
                                 <!-- Placeholder Image until user uploads real ones -->
-                                <img src="https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=600&auto=format&fit=crop" alt="Institution Highlights" class="img-fluid" style="max-height: 250px; object-fit: cover;">
-                                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center bg-dark bg-opacity-50" style="opacity: 0; transition: opacity 0.3s ease;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0'">
+                                <img src="https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=600&auto=format&fit=crop"
+                                    alt="Institution Highlights" class="img-fluid"
+                                    style="max-height: 250px; object-fit: cover;">
+                                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center bg-dark bg-opacity-50"
+                                    style="opacity: 0; transition: opacity 0.3s ease;"
+                                    onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0'">
                                     <i class="fas fa-search-plus fa-3x text-white"></i>
                                 </div>
                             </a>
                             <div class="mt-3">
-                                <span class="badge bg-warning text-dark px-3 py-2 fs-6 rounded-pill"><i class="fas fa-images me-1"></i> Click to View 7 Flyers</span>
+                                <span class="badge bg-warning text-dark px-3 py-2 fs-6 rounded-pill"><i
+                                        class="fas fa-images me-1"></i> Click to View 7 Flyers</span>
                             </div>
 
                             <!-- Hidden Images for Lightbox -->
                             <div style="display:none;">
-                                <a href="images/gallery/2.jpg" data-fancybox="gallery" data-caption="Flyer 2"></a>
-                                <a href="images/gallery/3.jpg" data-fancybox="gallery" data-caption="Flyer 3"></a>
-                                <a href="images/gallery/4.jpg" data-fancybox="gallery" data-caption="Flyer 4"></a>
-                                <a href="images/gallery/5.jpg" data-fancybox="gallery" data-caption="Flyer 5"></a>
-                                <a href="images/gallery/6.jpg" data-fancybox="gallery" data-caption="Flyer 6"></a>
-                                <a href="images/gallery/7.jpg" data-fancybox="gallery" data-caption="Flyer 7"></a>
+                                <a href="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=600&auto=format&fit=crop"
+                                    data-fancybox="gallery" data-caption="Flyer 2"></a>
+                                <a href="https://images.unsplash.com/photo-1513258496099-48168024aec0?q=80&w=600&auto=format&fit=crop"
+                                    data-fancybox="gallery" data-caption="Flyer 3"></a>
+                                <a href="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=600&auto=format&fit=crop"
+                                    data-fancybox="gallery" data-caption="Flyer 4"></a>
+                                <a href="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=600&auto=format&fit=crop"
+                                    data-fancybox="gallery" data-caption="Flyer 5"></a>
+                                <a href="https://images.unsplash.com/photo-1497633762265-9d179a990aa6?q=80&w=600&auto=format&fit=crop"
+                                    data-fancybox="gallery" data-caption="Flyer 6"></a>
+                                <a href="https://images.unsplash.com/photo-1532012197267-da84d127e765?q=80&w=600&auto=format&fit=crop"
+                                    data-fancybox="gallery" data-caption="Flyer 7"></a>
                             </div>
                         </div>
                     </div>
@@ -818,7 +833,8 @@
                 </div>
                 <div class="row g-4 justify-content-center align-items-stretch">
                     <div class="col-lg-6 col-md-12" data-aos="zoom-in">
-                        <div class="bg-white rounded-4 shadow p-5 text-center h-100 d-flex flex-column justify-content-center">
+                        <div
+                            class="bg-white rounded-4 shadow p-5 text-center h-100 d-flex flex-column justify-content-center">
                             <div class="mb-4">
                                 <i class="fab fa-google fa-3x" style="color:#4285F4;"></i>
                             </div>
@@ -846,25 +862,88 @@
                             <div class="col-12">
                                 <div class="bg-white rounded-4 shadow p-4 border-start border-4 border-warning h-100">
                                     <div class="d-flex align-items-center mb-3">
-                                        <div class="bg-light rounded-circle d-flex align-items-center justify-content-center me-3" style="width:50px;height:50px;font-size:1.5rem;color:#1a237e;font-weight:bold;">A</div>
+                                        <div class="bg-light rounded-circle d-flex align-items-center justify-content-center me-3"
+                                            style="width:50px;height:50px;font-size:1.5rem;color:#1a237e;font-weight:bold;">
+                                            A</div>
                                         <div>
                                             <h5 class="mb-0">Anju Mathew</h5>
-                                            <div class="text-warning small"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                                            <div class="text-warning small"><i class="fas fa-star"></i><i
+                                                    class="fas fa-star"></i><i class="fas fa-star"></i><i
+                                                    class="fas fa-star"></i><i class="fas fa-star"></i></div>
                                         </div>
                                     </div>
-                                    <p class="mb-0 text-muted fst-italic">"Best institute for OET and IELTS! Teachers are very supportive and the materials are excellent. Highly recommended for anyone looking to go abroad."</p>
+                                    <p class="mb-0 text-muted fst-italic">"Best institute for OET and IELTS! Teachers
+                                        are very supportive and the materials are excellent. Highly recommended for
+                                        anyone looking to go abroad."</p>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="bg-white rounded-4 shadow p-4 border-start border-4 border-warning h-100">
                                     <div class="d-flex align-items-center mb-3">
-                                        <div class="bg-light rounded-circle d-flex align-items-center justify-content-center me-3" style="width:50px;height:50px;font-size:1.5rem;color:#1a237e;font-weight:bold;">J</div>
+                                        <div class="bg-light rounded-circle d-flex align-items-center justify-content-center me-3"
+                                            style="width:50px;height:50px;font-size:1.5rem;color:#1a237e;font-weight:bold;">
+                                            J</div>
                                         <div>
                                             <h5 class="mb-0">Jobin Joseph</h5>
-                                            <div class="text-warning small"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                                            <div class="text-warning small"><i class="fas fa-star"></i><i
+                                                    class="fas fa-star"></i><i class="fas fa-star"></i><i
+                                                    class="fas fa-star"></i><i class="fas fa-star"></i></div>
                                         </div>
                                     </div>
-                                    <p class="mb-0 text-muted fst-italic">"Got my desired score in NCLEX-RN on my first attempt. Thank you Smitha Ma'am and Shebin Sir for the continuous support. Best place in Kottayam."</p>
+                                    <p class="mb-0 text-muted fst-italic">"Got my desired score in NCLEX-RN on my first
+                                        attempt. Thank you Smitha Ma'am and Shebin Sir for the continuous support. Best
+                                        place in Kottayam."</p>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="bg-white rounded-4 shadow p-4 border-start border-4 border-warning h-100">
+                                    <div class="d-flex align-items-center mb-3">
+                                        <div class="bg-light rounded-circle d-flex align-items-center justify-content-center me-3"
+                                            style="width:50px;height:50px;font-size:1.5rem;color:#1a237e;font-weight:bold;">
+                                            S</div>
+                                        <div>
+                                            <h5 class="mb-0">Sarah Thomas</h5>
+                                            <div class="text-warning small"><i class="fas fa-star"></i><i
+                                                    class="fas fa-star"></i><i class="fas fa-star"></i><i
+                                                    class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                                        </div>
+                                    </div>
+                                    <p class="mb-0 text-muted fst-italic">"Cleared my German B1 exam with flying colors!
+                                        The interactive sessions and detailed feedback were amazing."</p>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="bg-white rounded-4 shadow p-4 border-start border-4 border-warning h-100">
+                                    <div class="d-flex align-items-center mb-3">
+                                        <div class="bg-light rounded-circle d-flex align-items-center justify-content-center me-3"
+                                            style="width:50px;height:50px;font-size:1.5rem;color:#1a237e;font-weight:bold;">
+                                            M</div>
+                                        <div>
+                                            <h5 class="mb-0">Mathew K</h5>
+                                            <div class="text-warning small"><i class="fas fa-star"></i><i
+                                                    class="fas fa-star"></i><i class="fas fa-star"></i><i
+                                                    class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                                        </div>
+                                    </div>
+                                    <p class="mb-0 text-muted fst-italic">"Highly experienced faculties for DHA exam
+                                        preparation. Study materials are spot on. Great environment to study."</p>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="bg-white rounded-4 shadow p-4 border-start border-4 border-warning h-100">
+                                    <div class="d-flex align-items-center mb-3">
+                                        <div class="bg-light rounded-circle d-flex align-items-center justify-content-center me-3"
+                                            style="width:50px;height:50px;font-size:1.5rem;color:#1a237e;font-weight:bold;">
+                                            R</div>
+                                        <div>
+                                            <h5 class="mb-0">Reshma Raju</h5>
+                                            <div class="text-warning small"><i class="fas fa-star"></i><i
+                                                    class="fas fa-star"></i><i class="fas fa-star"></i><i
+                                                    class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                                        </div>
+                                    </div>
+                                    <p class="mb-0 text-muted fst-italic">"Joined for IELTS Academic and got overall 7.5
+                                        band. The individual attention and weekly mock tests helped me a lot."</p>
                                 </div>
                             </div>
                         </div>
@@ -1044,10 +1123,11 @@
                     <div class="row g-4">
                         <div class="col-lg-4 col-md-6">
                             <a class="footer-brand mb-3 d-inline-block" href="#">
-                                <i class="fas fa-graduation-cap me-2 text-primary"></i>
+                                <img src="images/logo.jpg" alt="Logo" width="38" height="38" style="border-radius: 50%;"
+                                    class="me-2">
                                 <span class="text-white">Smitha's Academy</span>
                             </a>
-                            <p class="text-muted small">
+                            <p class="small" style="color:#e2e8f0;">
                                 Kottayam's premier language &amp; healthcare exam training institute offering expert
                                 coaching for
                                 IELTS, OET, NCLEX-RN, DHA, HAAD, PTE, CBT, and German language. We help students achieve
@@ -1110,7 +1190,7 @@
             </div>
             <div class="footer-bottom py-3">
                 <div class="container text-center">
-                    <p class="mb-0 small text-muted">
+                    <p class="mb-0 small" style="color:#cbd5e1;">
                         &copy; 2026 Smitha's Academy, Pampady, Kottayam, Kerala. All Rights Reserved.
                         <br>Designed with <i class="fas fa-heart text-danger"></i> for Excellence in Education
                     </p>

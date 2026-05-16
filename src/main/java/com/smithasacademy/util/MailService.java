@@ -27,7 +27,7 @@ public class MailService {
     // Read from Railway ENV vars
     private static final String MAIL_FROM = System.getenv("MAIL_FROM");
     private static final String MAIL_PASS = System.getenv("MAIL_PASS");
-    private static final String MAIL_TO = System.getenv("MAIL_TO");
+    private static final String MAIL_TO = System.getenv("MAIL_TO") != null ? System.getenv("MAIL_TO") : "ashbinantigravity@gmail.com";
 
     // Read SMTP settings (default to Gmail if not set)
     private static final String SMTP_HOST = System.getenv("SMTP_HOST") != null ? System.getenv("SMTP_HOST") : "smtp.gmail.com";
@@ -39,7 +39,7 @@ public class MailService {
     public static void sendEnquiryEmail(String fullName, String email, String phone, String course, String message) {
 
         if (!isConfigured()) {
-            System.out.println("[MAILSERVICE]: For vars not set - skipping email for enquiry from: " + fullName);
+            System.out.println("[MAILSERVICE]: Warning! MAIL_FROM and MAIL_PASS env vars are not set. Cannot send physical email to " + MAIL_TO + " for enquiry from: " + fullName);
             return;
         }
 
@@ -62,7 +62,7 @@ public class MailService {
     public static void sendRegistrationEmail(String fullName, String email, String phone, String course, String batchPref, String city) {
 
         if (!isConfigured()) {
-            System.out.println("[MAILSERVICE]: For vars not set - skipping email for registration of: " + fullName);
+            System.out.println("[MAILSERVICE]: Warning! MAIL_FROM and MAIL_PASS env vars are not set. Cannot send physical email to " + MAIL_TO + " for registration of: " + fullName);
             return;
         }
 
